@@ -12,6 +12,9 @@ func main() {
 	// fmt.Println(Split(50))
 	// Variables()
 	// Initializers()
-	NumberTypes()
-	ForTest()
+	// NumberTypes()
+	// ForTest()
+	// CaseFunction()
+	// WeekdayFunction()
+	HourFunction()
 }
